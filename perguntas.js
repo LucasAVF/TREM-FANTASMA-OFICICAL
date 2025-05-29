@@ -1,7 +1,7 @@
 criaCartao(
-    'Qual a data de Fundação do Operario?,
+    'Qual a data de Fundação do Operario?',
     'O que é Python?',
-    'O Python é uma linguagem de programação'
+    '1912'
 )
 
 criaCartao(
